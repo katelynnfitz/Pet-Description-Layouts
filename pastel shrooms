@@ -1,0 +1,130 @@
+<style>
+#header, #ban, .user, #nst, #header, #template_nav, .eventIcon, #footer, .sidebar, .sidebarHeader, .contentModuleHeader, .contentModuleHeaderAlt, .contentModuleContent table img, .contentModuleContent #pet_rating b, .contentModuleContent #pet_rating, contentModuleContent #pet_rating, .contentModuleContent div img, .content div      {
+	display: none;
+}
+
+
+#header a img, #header ul a img {
+	visibility: hidden;
+}
+
+.contentModuleContent div img {
+	display: inline;
+}
+
+.content .contentModule, .contentModuleTable {
+	border: 0px;
+}
+
+.content div div, .content .contentModule {
+	display: block;
+}
+
+body {
+	background: url("https://imgur.com/voNJ4Ot.jpg") repeat;
+}
+#main, .sidebar {
+	background: none;
+	border: 0px;
+}
+.contentModuleContent, .contentModule {
+	background: none;
+	color: #97BFFC;
+}
+.content .contentModule {
+	border: 0px solid #FF00FF;
+}
+.contentModuleTable {
+	border: 0px;
+}
+.contentModuleHeader {
+	background: none;
+	color: #491E65;
+}
+.contentModuleContent.medText {
+	color: #97BFFC;
+}
+td, body, p, div, table, tr, .content, #content div {
+font: 8pt century gothic;
+color: #DFA3F8;
+line-height: 14px;
+letter-spacing: 2px;
+}
+table{
+width: 415px;
+
+
+}
+
+b {
+font: 8pt century gothic;
+color: #C191EA;
+}
+
+a:link, a:visited, a:link b {
+	color:#97BFFC;
+}
+
+
+#CustomNeopetView {
+	height: 385px;
+	width: 385px;
+border: 5px solid #DCFEFD;
+}
+.contentModuleContent td a img {
+display:block !important;
+width: 0px;
+height: 0px;
+margin-right: 0px;
+border:0px solid #DCFEFD;
+}
+#main {
+margin-top:10px;
+margin-bottom:-40px;
+width:864px;
+border: 0px;
+}
+#content {
+width:850px;
+background: url("https://imgur.com/IISidKM.gif") repeat top white;
+border: 5px solid #DCFEFD;
+border-top: 0px;
+padding-top: 20px;
+}
+
+
+#nm h1 {
+font: bold 70px mistral;
+letter-spacing: 0px;
+line-height: 70px;
+color: #FBA4E9;
+margin: 3px;
+}
+#nm {
+color: #BD48E6;
+font: 14px century gothic;
+margin-top: -200px;
+margin-left: 425px;
+width: 400px;
+height: 290px;
+text-align: center;
+letter-spacing: 2px;
+}
+
+
+
+
+
+
+</style>
+
+
+<div id="nm">
+
+<h1>Asuwae</h1>
+<img src="https://imgur.com/dkYQJid.jpg"><img src="https://imgur.com/dkYQJid.jpg"><img src="https://imgur.com/dkYQJid.jpg"><br><br>
+This transparent Aisha is my pride and joy! Creating her was my dream for so long and it's finally been realized. She enjoys exploring the forest, searching for unique herbs, plantlife and petpets. She may look frightening but she's sweet at pie. <BR>
+
+Thanks to all of my guild friends, her design is now complete!<br><br>
+<img src="https://imgur.com/dkYQJid.jpg"><img src="https://imgur.com/dkYQJid.jpg"><img src="https://imgur.com/dkYQJid.jpg">
+</div>

@@ -1,0 +1,108 @@
+<style>
+#header, #ban, .user, #nst, #header, #template_nav, .eventIcon, #footer, .sidebar, .sidebarHeader, .contentModuleHeader, .contentModuleHeaderAlt, .contentModuleContent table img, .contentModuleContent #pet_rating b, .contentModuleContent #pet_rating, contentModuleContent #pet_rating, .contentModuleContent div img, .content div      {
+	display: none;
+}
+#header a img, #header ul a img {
+	visibility: hidden;
+}
+.contentModuleContent div img {
+	display: inline;
+}
+.content .contentModule, .contentModuleTable {
+	border: 0px;
+}
+.content div div, .content .contentModule {
+	display: block;
+}
+body {
+	background: url("https://i.imgur.com/ZbWHsRh.jpg");
+}
+.contentModuleContent, .contentModule {
+	background: #fff;
+	color: black;
+}
+.contentModuleHeader {
+	background: #fff;
+	color: black;
+}
+.contentModuleContent.medText {
+	color: #cc38b0;
+}
+td, body, p, div, table, tr, .content, #content div {
+font: 10pt Perpetua;
+color: #cc38b0;
+line-height: 14px;
+letter-spacing: 2px;
+}
+table{
+width: 415px;
+}
+b {
+font: 10pt Perpetua;
+color: #495D80;
+}
+
+#CustomNeopetView {
+	height: 385px;
+	width: 385px;
+}
+.contentModuleContent td a img {
+display:block !important;
+width: 0px;
+height: 0px;
+
+}
+#main {
+width:864px;
+}
+#content {
+width:850px;
+background: white;
+
+}
+
+
+#nm h1 {
+font: bold 80px chiller;
+color: #495D80;
+margin: 3px;
+}
+#nm {
+color: #cc38b0;
+font: 14px Perpetua;
+margin-top: -200px;
+margin-left: 405px;
+margin-bottom: 100px;
+height: 290px;
+overflow: auto;
+text-align: center;
+letter-spacing: 2px;
+}
+
+
+
+
+
+
+</style>
+
+
+<div id="nm">
+
+<h1>Korpce</h1>
+
+Korpce was once a sweet and endearing usul that dreamed of nothing more than finding a kind love among the morbid pet of the Haunted Woods. One Day, she found her prince under the colorful scattered light in the Deserted Carnival. It was love at first sight and her longing heart felt whole at last. They were to be wed in Edna's tower the following day. 
+<br><br>
+She believed she owed her fairy tale all to her dear friend Edna. She had gone to Edna in the past to console her lonely heart. Edna had taken great interest in Korpce and promised her love at last if only she completed her a quest to bring her a Transmogrification Potion. Korpce accepted, grateful to the witch for giving her hope.  
+<br><br>
+The night she dreamt of had arrived at last. As she climbed the tower steps, her heart beat faster with each pace. She pictured the warm smile and kind eyes of her beloved Kau in her mind. 
+
+She finally arrived at the top at laid eyes of her fiance. "WHAT IS THIS?!", she screamed in horror. Before her stood a horrible monster that could only be described as a ferocious beast. He opened his mouth of tentacles and roared at the frozen Usul. She fell backwards onto the ground and looked deeply into the dark eyes of the beast in search of the pet she knew. He was consumed by rage, madness and pure evil. "You didn't really think I would let you have him all to yourself did you? If you still want him, serve me for all eternity and I will return him to the Kau you remember. Together we will concur these lands and rule the Haunted Woods forever. When my dream comes true, only then will I give you yours" Edna said chuckling in excitement. 
+<br><br>
+The young Usul fled to the woods with tears in her eyes. She was terrified and her dreams had been crushed by the one person she thought she could trust. 
+<br><br>
+She did not realize that all along, someone had been watching her. Korpce woke to a familiar face; It was the Puzzle Master, Evil Thade. Thade had came to her aid in the past and proved herself an allie not to be trifled with but evil she was not. 
+<br><br>
+The Kacheek promised her power, revenge, love and a life her own for exchange for her service. The Thade only desired to see her lifelong rival Edna get what was coming to her. 
+
+</div>

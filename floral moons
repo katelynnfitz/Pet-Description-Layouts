@@ -1,0 +1,127 @@
+<style>
+#header, #ban, .user, #nst, #header, #template_nav, .eventIcon, #footer, .sidebar, .sidebarHeader, .contentModuleHeader, .contentModuleHeaderAlt, .contentModuleContent table img, .contentModuleContent #pet_rating b, .contentModuleContent #pet_rating, contentModuleContent #pet_rating, .contentModuleContent div img, .content div      {
+	display: none;
+}
+
+
+#header a img, #header ul a img {
+	visibility: hidden;
+}
+
+.contentModuleContent div img {
+	display: inline;
+}
+
+.content .contentModule, .contentModuleTable {
+	border: 0px;
+}
+
+.content div div, .content .contentModule {
+	display: block;
+}
+
+body {
+	background: url("https://imgur.com/4VFiJiN.gif") repeat;
+}
+#main, .sidebar {
+	background: none;
+	border: 0px;
+}
+.contentModuleContent, .contentModule {
+	background: none;
+	color: #91C0E2;
+}
+.content .contentModule {
+	border: 0px solid #FF00FF;
+}
+.contentModuleTable {
+	border: 0px;
+}
+.contentModuleHeader {
+	background: none;
+	color: #5964AD;
+}
+.contentModuleContent.medText {
+	color: #FCA9CD;
+}
+td, body, p, div, table, tr, .content, #content div {
+font: 8pt century gothic;
+color: #D786DC;
+line-height: 14px;
+letter-spacing: 2px;
+}
+table{
+width: 415px;
+
+
+}
+
+b {
+font: 8pt century gothic;
+color: #5964AD;
+}
+
+a:link, a:visited, a:link b {
+	color:#FCA9CD;
+}
+
+
+#CustomNeopetView {
+	height: 385px;
+	width: 385px;
+border: 5px solid #5964AD;
+}
+.contentModuleContent td a img {
+display:block !important;
+width: 0px;
+height: 0px;
+margin-right: 0px;
+border:0px solid #5964AD;
+}
+#main {
+margin-top:10px;
+margin-bottom:-40px;
+width:850px;
+border: 0px;
+background: url("https://imgur.com/KCAekX0.gif") repeat white;
+}
+#content {
+width:850px;
+background: url("https://imgur.com/KCAekX0.gif") repeat white;
+border: 5px solid #5964AD;
+border-top: 0px;
+}
+
+
+#nm h1 {
+font: bold 50px fantasy;
+letter-spacing: 2px;
+line-height: 50px;
+color: #5964AD;
+margin: 3px;
+}
+#nm {
+color: silver;
+font: 14px century gothic;
+margin-top: -200px;
+margin-left: 425px;
+width: 400px;
+height: 290px;
+text-align: center;
+letter-spacing: 2px;
+}
+
+
+
+
+
+
+</style>
+
+
+<div id="nm">
+
+<h1>Meet Athelaya</h1>
+This Toy Uni is my battle pet. She is strong willed and mighty in battle. She's tough as nails and driven by her insatiable thirst for nerkmids. 
+
+</div>

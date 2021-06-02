@@ -1,0 +1,129 @@
+<style>
+#ban, .user, #nst, #template_nav, .eventIcon, #footer, .sidebar, .sidebarHeader, .contentModuleHeader, .contentModuleHeaderAlt, .contentModuleContent table img, .contentModuleContent #pet_rating b, .contentModuleContent #pet_rating, contentModuleContent #pet_rating, .contentModuleContent div img, .content div      {
+	display: none;
+}
+
+
+#header a img, #header ul a img {
+	visibility: hidden;
+}
+
+.contentModuleContent div img {
+	display: inline;
+}
+
+.content .contentModule, .contentModuleTable {
+	border: 0px;
+}
+
+.content div div, .content .contentModule {
+	display: block;
+}
+
+body {
+	background: url("http://i64.tinypic.com/vmssrb.jpg") repeat;
+}
+#main, .sidebar {
+	background: none;
+	border: 0px;
+}
+.contentModuleContent, .contentModule {
+	background: #fff;
+	color: pink;
+}
+.content .contentModule {
+	border: 0px solid #FF00FF;
+}
+.contentModuleTable {
+	border: 0px;
+}
+.contentModuleHeader {
+	background: #fff;
+	color: #D3F7DB;
+}
+.contentModuleContent.medText {
+	color: pink;
+}
+td, body, p, div, table, tr, .content, #content div {
+font: 9pt Perpetua;
+color: pink;
+line-height: 14px;
+letter-spacing: 2px;
+}
+table{
+width: 440px;
+
+
+}
+
+b {
+font: 9pt Perpetua;
+color: #D3F7DB;
+}
+
+a:link, a:visited, a:link b {
+	color:silver;
+}
+
+
+#CustomNeopetView {
+	height: 385px;
+	width: 385px;
+border: 5px solid #D3F7DB;
+}
+.contentModuleContent td a img {
+display:block !important;
+width: 0px;
+height: 0px;
+margin-right: 0px;
+border:0px solid #D7F8FF;
+}
+#main {
+margin-top:10px;
+margin-bottom:-40px;
+width:870px;
+border: 0px;
+}
+#content {
+width:872px;
+background: #ffffff;
+border: 5px solid #D7F8FF;
+border-top: 0px;
+}
+
+
+#nm h1 {
+font: bold 50px Vivaldi;
+letter-spacing: 2px;
+line-height: 50px;
+color: #D7F8FF;
+margin: 3px;
+}
+#nm {
+color: silver;
+font: 14px Perpetua;
+margin-top: -100px;
+margin-left: 425px;
+width: 400px;
+height: 290px;
+text-align: center;
+letter-spacing: 2px;
+margin-bottom: -150px;
+}
+
+#header {background: url('http://i67.tinypic.com/29bkew9.jpg') no-repeat;height:145px;width:900px;border:0px none;z-index: 999}
+
+
+
+
+
+</style>
+
+
+<div id="nm">
+
+<h1>Meet Zeulea</h1>
+This Blue Aisha is sweet, charming and loves all things adorable. She lives in the clouds and is nothing less than an angel herself.  
+<br><br>
+<a href="/~odinorth">Custom Design by Aesthetic Creations</a>
+</div>
